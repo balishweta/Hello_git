@@ -1,0 +1,10 @@
+1.git init-To initialize a git repository.
+
+2.git status-To check status and repository any time.
+
+3.git add-To tell git to track your changes.
+
+4.git commit-To create checkpoints  for version control.
+
+5git push-To uplaod project to cloud.
+
