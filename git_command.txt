@@ -1,3 +1,6 @@
+
+commands
+
 1.git init-To initialize a git repository.
 
 2.git status-To check status and repository any time.
@@ -6,5 +9,5 @@
 
 4.git commit-To create checkpoints  for version control.
 
-5git push-To uplaod project to cloud.
+5.git push-To uplaod project to cloud.
 
